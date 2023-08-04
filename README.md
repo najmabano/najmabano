@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @najmabano
+- 👋 Hi, I’m @najmab
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning about open source projects
-- 💞️ I’m looking to collaborate on open source projects
+- 🌱 I’m currently learning about open-source projects
+- 💞️ I’m looking to collaborate on open-source projects
 - 📫 reach me at facebook- najma bano
 
 <!---
-najmabano/najmabano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+najmab/najmab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
