@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @najmab
+- 👋 Hi, I’m @najma
 - 👀 I’m interested in solving problems
 - 🌱 I’m currently learning about open-source projects
 - 💞️ I’m looking to collaborate on open-source projects
